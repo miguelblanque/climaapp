@@ -7,7 +7,7 @@ Pagina principal de la aplicacion
 
 Consulta Clima Almeria
 
-![alt text](/src/img/Consulta.png)
+![alt text](/src/img/Consulta_clima.png)
 
 
 Consulta sin resultados
