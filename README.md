@@ -21,7 +21,7 @@ Consulta sin resultados
 
 Ejecucion
 
-cd clima app
+cd climaapp
 
 
 npm install
